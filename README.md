@@ -21,6 +21,12 @@ A better mtg draft app.
 - [ ] (Optional) upload profile picture because funny.
 - [ ] Countdown timer when the games have started.
 
+## Future Improvements:
+
+- [ ] Life counter.
+- [ ] Sign ups.
+- [ ] Game history.
+
 \[MORE HERE]
 
 Bla bla bla tagga dork
